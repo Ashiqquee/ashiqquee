@@ -1,4 +1,4 @@
-I am an unwavering web developer who ardently embraces async/await, shunning promises at every turn.
+I am an unwavering web developer who invariably opt for async/await over promises without exception.
 
 <!--
 **Ashiqquee/ashiqquee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
